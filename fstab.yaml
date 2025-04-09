@@ -1,0 +1,11 @@
+mountpoints:
+  /: https://adobe.sharepoint.com/:f:/r/sites/AEMNAMExpertSCs/Shared%20Documents/General/Demo-2.0/Adobe-Demo-Hub-Assets-DO-NOT-DELETE/wknd-commerce
+
+folders:
+  /products/: /products/default
+  /draft/commerce-sc/products/: /draft/commerce-sc/products/default
+  /adventures/details/: /adventures/details/default
+  /draft/commerce-sc/adventures/details/: /draft/commerce-sc/adventures/details/default
+  /experiments/experiment-adventures-pdp/: /experiments/experiment-adventures-pdp/adventure-pdp-v2
+  /draft/commerce-sc/experiments/experiment-adventures-pdp/: /draft/commerce-sc/experiments/experiment-adventures-pdp/adventure-pdp-v2
+  /experiments/experiment-pdp/: /experiments/experiment-pdp/pdp-v2
