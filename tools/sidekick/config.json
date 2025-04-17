@@ -11,7 +11,7 @@
             "id": "asset-library",
             "title": "AEM Assets Library",
             "environments": [ "edit" ],
-            "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html?extConfigUrl=/tools/assets-selector/config.json",
+            "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html?extConfigUrl=https://main--shmehta-wknd-09042025-60535--svfranklindemo.aem.page/tools/assets-selector/config.json",
             "isPalette": true,
             "includePaths": [ "**.docx**" ],
             "passConfig": true,
